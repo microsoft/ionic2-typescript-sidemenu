@@ -34,7 +34,7 @@ With VS Code:
 
 With Visual Studio:
 * Clone this repository.
-* Open the ionic2-starter-sidemenu.sln in Visual Studio.
+* Open the ionic2-ts-sidemenu.sln in Visual Studio.
 * Install npm packages by going to your Solution Explorer -> Dependencies -> npm and clicking on 'Restore Packages'. 
 * Open Task Runner window by pressing Ctrl+Alt+Bkspce. 
 
@@ -92,7 +92,7 @@ We are currently working on completing a few core Ionic 1 features:
 ## File Structure of App
 
 ```
-ionic2-starter-sidemenu/
+ionic2-ts-sidemenu/
 ├── app/                               * Working directory
 │   ├── pages/                         * Contains all of our pages
 │   │   ├── getting-started/               
@@ -141,7 +141,7 @@ ionic2-starter-sidemenu/
 ├── LICENSE                            * Apache License
 ├── package.json                       * Our javascript dependencies
 ├── gulpfile.js                        * Contains gulp tasks
-├── ionic2-starter-sidemenu.sln        * VS solution
-├── ionic2-starter-sidemenu.jsproj        
+├── ionic2-ts-sidemenu.sln             * VS solution
+├── ionic2-ts-sidemenu.jsproj        
 └── README.md                          * This file
 ```
