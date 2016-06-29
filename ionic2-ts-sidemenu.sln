@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "ionic2-ts-sidemenu", "ionic2-ts-sidemenu.jsproj", "{B6C388CE-3037-4A8F-AA83-16C232CBD616}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "ionic2-ts-sidemenu", "ionic2-ts-sidemenu.jsproj", "{13ACA32A-FBC9-4185-9A64-A06490E1BC43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,24 +15,24 @@ Global
 		Release|Windows-x86 = Release|Windows-x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|Android.ActiveCfg = Debug|Android
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|Android.Build.0 = Debug|Android
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|Android.Deploy.0 = Debug|Android
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|iOS.ActiveCfg = Debug|iOS
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|iOS.Build.0 = Debug|iOS
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|iOS.Deploy.0 = Debug|iOS
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|Android.ActiveCfg = Release|Android
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|Android.Build.0 = Release|Android
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|Android.Deploy.0 = Release|Android
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|iOS.ActiveCfg = Release|iOS
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|iOS.Build.0 = Release|iOS
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|iOS.Deploy.0 = Release|iOS
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|Windows-x86.Build.0 = Release|Windows-x86
-		{B6C388CE-3037-4A8F-AA83-16C232CBD616}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|Android.ActiveCfg = Debug|Android
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|Android.Build.0 = Debug|Android
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|Android.Deploy.0 = Debug|Android
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|iOS.ActiveCfg = Debug|iOS
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|iOS.Build.0 = Debug|iOS
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|iOS.Deploy.0 = Debug|iOS
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|Android.ActiveCfg = Release|Android
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|Android.Build.0 = Release|Android
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|Android.Deploy.0 = Release|Android
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|iOS.ActiveCfg = Release|iOS
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|iOS.Build.0 = Release|iOS
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|iOS.Deploy.0 = Release|iOS
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{13ACA32A-FBC9-4185-9A64-A06490E1BC43}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
